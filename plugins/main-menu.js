@@ -43,7 +43,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
 *│❑↫┋مرحبا بك يا :${taguser}*
 *│❑↫┋ اسـم الـبوت : (حط حقوقك)*
 *│❑↫┋ حط قبل كل امر : .*
-*│❑↫┋ الـمطور :kurosaki*
+*│❑↫┋ الـمطور :ＳＩＲＡＪ*
 *│❑↫┋ البوت شغـال مـنذ : ${uptime}*
 *│❑↫┋ الـمنـصه : heroku*
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
@@ -160,10 +160,10 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
 *│*
 *│⇆ رقـم الـمطـور : ↯* 
-*│ده :https://wa.me/+212669512443*
+*│ده :https://wa.me/+972566792047*
 *│*
-*│⇆ يوتيوب المطور : ↯* 
-*│ده :https://www.youtube.com/@Kurosaki67383*
+*│⇆ انستقرام المطور : ↯* 
+*│ده :https://www.instagram.com/7bluunj_?igsh=d2ZxbWw5Y2U1MDFh*
 *│*
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
     `.trim();
