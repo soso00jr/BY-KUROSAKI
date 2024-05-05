@@ -41,7 +41,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPr
 
  ❐─━──━〘•⊰❉⊱•〙•━──━─❐
 *│❑↫┋مرحبا بك يا :${taguser}*
-*│❑↫┋ اسـم الـبوت : (حط حقوقك)*
+*│❑↫┋ اسـم الـبوت : (Misramj)*
 *│❑↫┋ حط قبل كل امر : .*
 *│❑↫┋ الـمطور :ＳＩＲＡＪ*
 *│❑↫┋ البوت شغـال مـنذ : ${uptime}*
